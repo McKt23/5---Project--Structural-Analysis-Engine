@@ -1,11 +1,11 @@
-# Prota Structural Engine v7.0
+Structural Engine v7.0
 
 A professional structural analysis software using the **Direct Stiffness Method (DSM)** for 2D and 3D Frame/Truss systems.
 
 **Author:** Muratcan Kilictepe (2511657)  
 **Course:** CE 4011 — Structural Analysis  
 **University:** Middle East Technical University (METU)  
-**Date:** June 2025
+
 
 ---
 
@@ -166,6 +166,4 @@ K_new[i,j] -= K[i,r] * K[r,j] / K[r,r]
 
 ---
 
-## License
 
-Academic project — CE 4011 Term Project, METU, 2025.
